@@ -21,7 +21,7 @@ I am searching for a new apartment. Make me a mobile app for that. I would like 
     - use a json file to remember the last id
   - a list of multiple status texts (list group): date (optional) and text
 
-Add typical CRUD functions everywhere. Make it user friendly.
+Add typical CRUD functions everywhere in a user friendly way.
 
 Save the data in /data/data.yml
 
